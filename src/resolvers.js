@@ -1,15 +1,3 @@
-type AccountInput = {
-    firstName: string;
-    lastName: string;
-    emailAccount: EmailAccountInput;
-}
-
-type EmailAccountInput = {
-    username: string;
-    password: string;
-    recoveryEmail: string;
-}
-
 module.exports = {
     Query: {
         accounts: async (_, __, {dataSources}) => {

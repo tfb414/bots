@@ -1,6 +1,7 @@
 const { MongoDataSource } = require('apollo-datasource-mongodb');
 
 class AccountAPI extends MongoDataSource {
+
     async getAllAccounts() {
         return await this.collection.find().toArray();
     }
