@@ -4,3 +4,4 @@ env_variables:
   APOLLO_KEY: service:bots:4cZdZ-xYXdyC-Pf-Nbd9Uw
   MONGODB_USERNAME: tfb414
   MONGODB_PW: Worldofwarmongo1
+  PORT: 8080
