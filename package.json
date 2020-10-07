@@ -12,18 +12,18 @@
   "license": "ISC",
   "dependencies": {
     "@google-cloud/datastore": "^5.1.0",
-    "apollo-datasource-mongodb": "^0.2.5",
-    "apollo-datasource-rest": "^0.8.0",
-    "apollo-server": "^2.11.0",
-    "apollo-server-errors": "^2.4.1",
+    "apollo-datasource-mongodb": "^0.2.8",
+    "apollo-datasource-rest": "^0.8.1",
+    "apollo-server": "^2.18.2",
+    "apollo-server-errors": "^2.4.2",
     "dotenv": "^8.2.0",
-    "graphql": "^15.0.0",
-    "mongodb": "^3.5.5",
+    "graphql": "^15.3.0",
+    "mongodb": "^3.6.2",
     "mongodb-stitch-server-sdk": "^4.8.0",
-    "nodemon": "^2.0.2",
+    "nodemon": "^2.0.4",
     "snoowrap": "^1.21.0",
-    "ts-node": "^8.8.2",
-    "typescript": "^3.8.3",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7",
     "uuid": "^7.0.3"
   }
 }
